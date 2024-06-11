@@ -12,8 +12,7 @@ Matplotlib/Seaborn/Wordcloud- This library is used for creating visualisations.
 The Natural Language Tool Kit (NLTK) provides a variety of functions for processing raw textual data.
 Text Preprocessing
 Textual data is highly unstructured and need attention on many aspects like:
-
-Stopwords Removal
-Punctuations Removal
-Stemming or Lemmatization
+1.Stopwords Removal
+2.Punctuations Removal
+3.Stemming or Lemmatization
 Although removing data means loss of information but we need to do this to make the data perfect to feed into a machine learning model.
